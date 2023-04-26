@@ -1,0 +1,24 @@
+[
+    {
+        "loanId": 1,
+        "borrowers": [
+            {
+                "pairId": 1,
+                "firstName": "FName1",
+                "lastName": "LName1",
+                "phone": "555-555-1234"
+            }
+        ]
+    },
+    {
+        "loanId": 2,
+        "borrowers": [
+            {
+                "pairId": 2,
+                "firstName": "FName2",
+                "lastName": "LName2",
+                "phone": "555-555-2345"
+            }
+        ]
+    }
+]
